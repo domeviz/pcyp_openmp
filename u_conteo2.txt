@@ -1,0 +1,204 @@
+Ejercicio en casa
+thread_id=6 for index=76
+thread_id=6 for index=77
+thread_id=2 for index=26
+thread_id=1 for index=13
+thread_id=0 for index= 0
+thread_id=4 for index=52
+thread_id=7 for index=88
+thread_id=5 for index=64
+thread_id=5 for index=65
+thread_id=6 for index=78
+thread_id=2 for index=27
+thread_id=1 for index=14
+thread_id=0 for index= 1
+thread_id=4 for index=53
+thread_id=7 for index=89
+thread_id=3 for index=39
+thread_id=5 for index=66
+thread_id=6 for index=79
+thread_id=2 for index=28
+thread_id=1 for index=15
+thread_id=0 for index= 2
+thread_id=4 for index=54
+thread_id=7 for index=90
+thread_id=3 for index=40
+thread_id=5 for index=67
+thread_id=6 for index=80
+thread_id=2 for index=29
+thread_id=1 for index=16
+thread_id=0 for index= 3
+thread_id=4 for index=55
+thread_id=7 for index=91
+thread_id=3 for index=41
+thread_id=5 for index=68
+thread_id=5 for index=69
+thread_id=5 for index=70
+thread_id=5 for index=71
+thread_id=0 for index= 4
+thread_id=4 for index=56
+thread_id=4 for index=57
+thread_id=4 for index=58
+thread_id=6 for index=81
+thread_id=2 for index=30
+thread_id=1 for index=17
+thread_id=5 for index=72
+thread_id=0 for index= 5
+thread_id=7 for index=92
+thread_id=3 for index=42
+thread_id=4 for index=59
+thread_id=6 for index=82
+thread_id=2 for index=31
+thread_id=1 for index=18
+thread_id=5 for index=73
+thread_id=0 for index= 6
+thread_id=7 for index=93
+thread_id=3 for index=43
+thread_id=4 for index=60
+thread_id=6 for index=83
+thread_id=2 for index=32
+thread_id=1 for index=19
+thread_id=1 for index=20
+thread_id=0 for index= 7
+thread_id=7 for index=94
+thread_id=3 for index=44
+thread_id=4 for index=61
+thread_id=4 for index=62
+thread_id=2 for index=33
+thread_id=5 for index=74
+thread_id=1 for index=21
+thread_id=0 for index= 8
+thread_id=0 for index= 9
+thread_id=0 for index=10
+thread_id=6 for index=84
+thread_id=6 for index=85
+thread_id=2 for index=34
+thread_id=5 for index=75
+thread_id=1 for index=22
+thread_id=1 for index=23
+thread_id=1 for index=24
+thread_id=0 for index=11
+thread_id=4 for index=63
+thread_id=6 for index=86
+thread_id=6 for index=87
+thread_id=7 for index=95
+thread_id=3 for index=45
+thread_id=1 for index=25
+thread_id=0 for index=12
+thread_id=2 for index=35
+thread_id=2 for index=36
+thread_id=2 for index=37
+thread_id=7 for index=96
+thread_id=3 for index=46
+thread_id=2 for index=38
+thread_id=7 for index=97
+thread_id=7 for index=98
+thread_id=7 for index=99
+thread_id=3 for index=47
+thread_id=3 for index=48
+thread_id=3 for index=49
+thread_id=3 for index=50
+thread_id=3 for index=51
+Tiempo de proceso: 22.979
+
+Ejercicio en clase
+thread_id=0 for index= 0
+thread_id=0 for index= 1
+thread_id=0 for index= 2
+thread_id=0 for index= 3
+thread_id=12 for index=52
+thread_id=12 for index=53
+thread_id=2 for index=10
+thread_id=2 for index=11
+thread_id=15 for index=64
+thread_id=14 for index=60
+thread_id=14 for index=61
+thread_id=18 for index=76
+thread_id=19 for index=80
+thread_id=22 for index=92
+thread_id=20 for index=84
+thread_id=7 for index=32
+thread_id=1 for index= 5
+thread_id=1 for index= 6
+thread_id=11 for index=48
+thread_id=21 for index=88
+thread_id=16 for index=68
+thread_id=23 for index=96
+thread_id=23 for index=97
+thread_id=23 for index=98
+thread_id=3 for index=15
+thread_id=6 for index=28
+thread_id=9 for index=40
+thread_id=0 for index= 4
+thread_id=10 for index=44
+thread_id=12 for index=54
+thread_id=13 for index=56
+thread_id=13 for index=57
+thread_id=13 for index=58
+thread_id=17 for index=72
+thread_id=17 for index=73
+thread_id=18 for index=77
+thread_id=18 for index=78
+thread_id=18 for index=79
+thread_id=20 for index=85
+thread_id=7 for index=33
+thread_id=7 for index=34
+thread_id=7 for index=35
+thread_id=11 for index=49
+thread_id=11 for index=50
+thread_id=11 for index=51
+thread_id=8 for index=36
+thread_id=8 for index=37
+thread_id=8 for index=38
+thread_id=8 for index=39
+thread_id=6 for index=29
+thread_id=9 for index=41
+thread_id=9 for index=42
+thread_id=9 for index=43
+thread_id=2 for index=12
+thread_id=15 for index=65
+thread_id=13 for index=59
+thread_id=14 for index=62
+thread_id=14 for index=63
+thread_id=19 for index=81
+thread_id=22 for index=93
+thread_id=20 for index=86
+thread_id=20 for index=87
+thread_id=1 for index= 7
+thread_id=21 for index=89
+thread_id=21 for index=90
+thread_id=5 for index=24
+thread_id=5 for index=25
+thread_id=3 for index=16
+thread_id=6 for index=30
+thread_id=6 for index=31
+thread_id=12 for index=55
+thread_id=2 for index=13
+thread_id=2 for index=14
+thread_id=17 for index=74
+thread_id=17 for index=75
+thread_id=22 for index=94
+thread_id=4 for index=20
+thread_id=1 for index= 8
+thread_id=1 for index= 9
+thread_id=21 for index=91
+thread_id=23 for index=99
+thread_id=5 for index=26
+thread_id=3 for index=17
+thread_id=3 for index=18
+thread_id=15 for index=66
+thread_id=19 for index=82
+thread_id=22 for index=95
+thread_id=4 for index=21
+thread_id=16 for index=69
+thread_id=5 for index=27
+thread_id=10 for index=45
+thread_id=10 for index=46
+thread_id=10 for index=47
+thread_id=19 for index=83
+thread_id=4 for index=22
+thread_id=16 for index=70
+thread_id=16 for index=71
+thread_id=15 for index=67
+thread_id=4 for index=23
+thread_id=3 for index=19
