@@ -1,37 +1,37 @@
 # ninja log v5
 1	123	7243095170019854	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	a9e9586dfceb0b1b
-1	159	0	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/openmp01/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	3d44d0ce12b8e5ca
+1	148	0	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/openmp01/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	478e0b8625051579
 1	123	7243095170019854	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/openmp01/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	a9e9586dfceb0b1b
-271	337	7255973903580273	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	b0fbca6e2c075189
+278	342	7261231836457308	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	b0fbca6e2c075189
 124	9660	7243095265302938	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/openmp01/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	e597e1ba725b1aac
 124	9660	7243095265302938	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	e597e1ba725b1aac
-1	159	0	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	3d44d0ce12b8e5ca
-159	215	7255973902466209	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	256045b91bbe0ec9
-159	215	7255973902466209	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/openmp01/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	256045b91bbe0ec9
-215	271	7255973903024683	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	e57e64eb5fc4f3b1
-215	271	7255973903024683	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/openmp01/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	e57e64eb5fc4f3b1
-271	337	7255973903580273	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/openmp01/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	b0fbca6e2c075189
-337	397	7255973904290100	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	8c64ff69a64f4159
-337	397	7255973904290100	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/openmp01/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	8c64ff69a64f4159
-398	453	7255973904846098	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	2ed09c6f07bbc70
-398	453	7255973904846098	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/openmp01/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	2ed09c6f07bbc70
-453	535	7255973905675370	CMakeFiles/fmt-populate-complete	d7e25f3bca19473e
-453	535	7255973905675370	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	d7e25f3bca19473e
-453	535	7255973905675370	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/openmp01/cmake-build-debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	d7e25f3bca19473e
-453	535	7255973905675370	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/openmp01/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	d7e25f3bca19473e
-1	282	0	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	478e0b8625051579
-1	282	0	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/openmp01/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	478e0b8625051579
-283	476	7256001884486973	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	256045b91bbe0ec9
-283	476	7256001884486973	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/openmp01/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	256045b91bbe0ec9
-476	621	7256001885908342	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	e57e64eb5fc4f3b1
-476	621	7256001885908342	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/openmp01/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	e57e64eb5fc4f3b1
-621	764	7256001887374852	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	b0fbca6e2c075189
-621	764	7256001887374852	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/openmp01/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	b0fbca6e2c075189
-765	919	7256001888896018	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	8c64ff69a64f4159
-765	919	7256001888896018	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/openmp01/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	8c64ff69a64f4159
-919	1056	7256001890222929	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	2ed09c6f07bbc70
-919	1056	7256001890222929	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/openmp01/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	2ed09c6f07bbc70
-1057	1288	7256001892486802	CMakeFiles/fmt-populate-complete	d7e25f3bca19473e
-1057	1288	7256001892486802	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	d7e25f3bca19473e
-1057	1288	7256001892486802	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/openmp01/cmake-build-debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	d7e25f3bca19473e
-1057	1288	7256001892486802	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/openmp01/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	d7e25f3bca19473e
+1	148	0	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	478e0b8625051579
+149	215	7261231835181151	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	256045b91bbe0ec9
+149	215	7261231835181151	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/openmp01/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	256045b91bbe0ec9
+215	277	7261231835816523	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	e57e64eb5fc4f3b1
+215	277	7261231835816523	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/openmp01/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	e57e64eb5fc4f3b1
+278	342	7261231836457308	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/openmp01/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	b0fbca6e2c075189
+342	426	7261231837288790	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	8c64ff69a64f4159
+342	426	7261231837288790	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/openmp01/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	8c64ff69a64f4159
+426	539	7261231838296657	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	2ed09c6f07bbc70
+426	539	7261231838296657	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/openmp01/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	2ed09c6f07bbc70
+540	651	7261231839541305	CMakeFiles/fmt-populate-complete	d7e25f3bca19473e
+540	651	7261231839541305	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	d7e25f3bca19473e
+540	651	7261231839541305	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/openmp01/cmake-build-debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	d7e25f3bca19473e
+540	651	7261231839541305	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/openmp01/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	d7e25f3bca19473e
+1	259	0	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	478e0b8625051579
+1	259	0	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/openmp01/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	478e0b8625051579
+260	355	7261241535369752	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	256045b91bbe0ec9
+260	355	7261241535369752	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/openmp01/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	256045b91bbe0ec9
+355	445	7261241536273357	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	e57e64eb5fc4f3b1
+355	445	7261241536273357	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/openmp01/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	e57e64eb5fc4f3b1
+446	537	7261241537204471	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	b0fbca6e2c075189
+446	537	7261241537204471	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/openmp01/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	b0fbca6e2c075189
+538	638	7261241538226447	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	8c64ff69a64f4159
+538	638	7261241538226447	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/openmp01/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	8c64ff69a64f4159
+638	728	7261241539123763	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	2ed09c6f07bbc70
+638	728	7261241539123763	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/openmp01/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	2ed09c6f07bbc70
+728	860	7261241540433554	CMakeFiles/fmt-populate-complete	d7e25f3bca19473e
+728	860	7261241540433554	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	d7e25f3bca19473e
+728	860	7261241540433554	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/openmp01/cmake-build-debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	d7e25f3bca19473e
+728	860	7261241540433554	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/openmp01/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	d7e25f3bca19473e

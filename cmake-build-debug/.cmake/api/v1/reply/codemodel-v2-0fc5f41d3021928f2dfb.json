@@ -21,7 +21,8 @@
 					"targetIndexes" : 
 					[
 						1,
-						2
+						2,
+						3
 					]
 				},
 				{
@@ -57,7 +58,8 @@
 					"targetIndexes" : 
 					[
 						1,
-						2
+						2,
+						3
 					]
 				},
 				{
@@ -94,6 +96,13 @@
 					"id" : "openmp02::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-openmp02-Debug-6c5cc46d7f5997a11940.json",
 					"name" : "openmp02",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "reduccion::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-reduccion-Debug-3bef7ccbd2295039f708.json",
+					"name" : "reduccion",
 					"projectIndex" : 0
 				}
 			]

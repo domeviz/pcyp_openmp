@@ -21,3 +21,6 @@ target_link_libraries(openmp01 fmt::fmt)
 
 add_executable(openmp02 openmp02.cpp)
 target_link_libraries(openmp02 fmt::fmt)
+
+add_executable(reduccion reduccion.cpp)
+target_link_libraries(reduccion fmt::fmt)
