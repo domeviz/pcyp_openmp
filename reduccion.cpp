@@ -5,12 +5,15 @@
 #include <vector>
 #include <cmath>
 
-#define MAX_ELEMENTOS 1024;
+#define MAX_ELEMENTOS 1024
 
 int main(){
-//    std::vector<float> datos(MAX_ELEMENTOS);
+    std::vector<float> datos(MAX_ELEMENTOS);
 
-    std::vector<float> datos={0,1,2,3,4,5,6,7};
+    for(int i=0;i<MAX_ELEMENTOS;i++){
+        datos[i]=i+1;
+    }
+//    std::vector<float> datos={0,1,2,3,4,5,6,7};
 
     int num_thread_inicial=std::ceil(datos.size()/2);
 
